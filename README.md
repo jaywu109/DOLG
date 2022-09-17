@@ -1,6 +1,6 @@
 # Pytorch-DOLG
 
-- Pytorch lightning version of the [DOLG](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_DOLG_Single-Stage_Image_Retrieval_With_Deep_Orthogonal_Fusion_of_Local_ICCV_2021_paper.pdf)
+- Pytorch lightning version of the [DOLG: Single-Stage Image Retrieval with Deep Orthogonal Fusion of Local and Global Features](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_DOLG_Single-Stage_Image_Retrieval_With_Deep_Orthogonal_Fusion_of_Local_ICCV_2021_paper.pdf)
 
 ## Prepare the dataset
 
